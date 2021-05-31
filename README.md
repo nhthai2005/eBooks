@@ -2,7 +2,7 @@
 
 ## DevOps Ebooks and Cheat Sheet:
 *A few of ebooks that helps me to look for something about DevOps fastly*
-* [Ansible for DevOps.pdf](DevOps/Ansible\ for\ DevOps.pdf)
+* [Ansible for DevOps.pdf](DevOps/Ansible for DevOps.pdf)
 * [Ansible-Cheat_Sheet_Edureka.pdf](DevOps\Ansible-Cheat_Sheet_Edureka.pdf)
 * [ansible-for-kubernetes.pdf](DevOps\ansible-for-kubernetes.pdf)
 * [davechild_linux-command-line.pdf](DevOps\davechild_linux-command-line.pdf)
