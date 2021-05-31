@@ -1,6 +1,6 @@
 # eBooks
 
-## DevOps Ebooks and Cheat Sheet:
+## DevOps Ebooks and Cheat Sheet
 *A few of ebooks that helps me to look for something about DevOps fastly*
 * [Ansible for DevOps.pdf](DevOps/Ansible for DevOps.pdf)
 * [Ansible-Cheat_Sheet_Edureka.pdf](DevOps\Ansible-Cheat_Sheet_Edureka.pdf)
@@ -15,7 +15,7 @@
 * [vi-cheat-sheet.pdf](DevOps\vi-cheat-sheet.pdf)
 * [vim-graphical-cheat-sheet.png](DevOps\vim-graphical-cheat-sheet.png)
 
-## English:
+## English
 *I have found out some App in App Store to study English like:*
 * [x] Cake
 * [ ] Duolingo
