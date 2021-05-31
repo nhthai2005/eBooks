@@ -31,7 +31,7 @@
 4. [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 5. [Convert Excel to MD - Free Online](https://products.aspose.app/cells/conversion/xlsx-to-md)
 6. [Editor.Pho.to - Free online photo editor](https://editor.pho.to/edit/)
-7. [Fotor Editor ｜ Fotor - Online Fotor Editor](https://www.fotor.com/photo-editor-app/editor/frames)
+7. [Online Fotor Editor](https://www.fotor.com/photo-editor-app/editor/frames)
 8. [Online MP3 Cutter - cut audio files in your browser](https://www.bearaudiotool.com/)
 9. [Generate Random Hex](https://www.browserling.com/tools/random-hex)
 10. [Generate Random Strings and Numbers](https://www.browserling.com/tools/random-string)
