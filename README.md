@@ -25,7 +25,7 @@
 
 ## Online Tools
 *There are a few useful online tools that help you to handle quickly without any installation.*
-1. [QR Code Generator | Create Your Free QR Codes](https://qr-code-generator.com)
+1. [QR Code Generator - Create Your Free QR Codes](https://qr-code-generator.com)
 2. [Crop a circle in image online](https://crop-circle.imageonline.co/)
 3. [Free Online HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 4. [Convert Spreadsheet to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
