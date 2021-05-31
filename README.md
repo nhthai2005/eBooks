@@ -23,7 +23,7 @@
 * [ ] TED
 * [x] TEDICT
 
-## Tools online
+## Online Tools
 *There are a few useful online tools that help you to handle quickly without any installation.*
 1. [QR Code Generator | Create Your Free QR Codes](https://qr-code-generator.com)
 2. [Crop a circle in image online](https://crop-circle.imageonline.co/)
