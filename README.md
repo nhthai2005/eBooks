@@ -35,3 +35,9 @@
 8. [Online MP3 Cutter - cut audio files in your browser](https://www.bearaudiotool.com/)
 9. [Generate Random Hex](https://www.browserling.com/tools/random-hex)
 10. [Generate Random Strings and Numbers](https://www.browserling.com/tools/random-string)
+
+## VPN Tools
+*Just need a VPN tool to work or share internal documents to public people*
+1. [**VPNBook**](https://www.vpnbook.com/): used for *Desktop users*
+2. [**ngrok**](https://ngrok.com/): used for *experienced users* or *developer*
+3. [**SoftEther VPN**](https://www.softether.org/): used for *Enterprise*
