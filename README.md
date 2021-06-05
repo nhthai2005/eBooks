@@ -14,6 +14,7 @@
 * [Mastering Ansible 3rd Edition.pdf](DevOps/Mastering Ansible 3rd Edition.pdf)
 * [vi-cheat-sheet.pdf](DevOps/vi-cheat-sheet.pdf)
 * [vim-graphical-cheat-sheet.png](DevOps/vim-graphical-cheat-sheet.png)
+* [postgres-cheatsheet](https://gist.github.com/nhthai2005/bbabd71b275db13dd31abd8ea6dc9b5e)
 
 ## English
 *I have found out some App in App Store to study English like:*
