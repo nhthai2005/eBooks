@@ -37,6 +37,7 @@
 9. [Generate Random Hex](https://www.browserling.com/tools/random-hex)
 10. [Generate Random Strings and Numbers](https://www.browserling.com/tools/random-string)
 11. [Systemd service file generator](https://mysystemd.talos.sh/)
+12. [Diceware Password Generator](https://diceware.dmuth.org/)
 
 ## VPN Tools
 *Just need a **free VPN tool** to work or share internal documents to public people*
