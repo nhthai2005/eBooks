@@ -7,7 +7,7 @@
 * [ansible-for-kubernetes.pdf](DevOps/ansible-for-kubernetes.pdf)
 * [davechild_linux-command-line.pdf](DevOps/davechild_linux-command-line.pdf)
 * [DevOps_with_OpenShift.pdf](DevOps/DevOps_with_OpenShift.pdf)
-* [keyboard-shortcuts-windows.pdf](DevOps/keyboard-shortcuts-windows.pdf)
+* [VSCode - keyboard-shortcuts-windows.pdf](DevOps/keyboard-shortcuts-windows.pdf)
 * [Linux commands cheat sheet by PhoenixNAP.pdf](DevOps/Linux commands cheat sheet by PhoenixNAP.pdf)
 * [Linux Networking Cheat Sheet.pdf](DevOps/Linux Networking Cheat Sheet.pdf)
 * [LinuxCommandLineCheatSheet.pdf](DevOps/LinuxCommandLineCheatSheet.pdf)
@@ -15,6 +15,7 @@
 * [vi-cheat-sheet.pdf](DevOps/vi-cheat-sheet.pdf)
 * [vim-graphical-cheat-sheet.png](DevOps/vim-graphical-cheat-sheet.png)
 * [postgres-cheatsheet](https://gist.github.com/nhthai2005/bbabd71b275db13dd31abd8ea6dc9b5e)
+* [Bash scripting cheatsheet](https://devhints.io/bash)
 
 ## English
 *I have found out some App in App Store to study English like:*
