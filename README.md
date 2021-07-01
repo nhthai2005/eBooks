@@ -42,6 +42,7 @@
 11. [Systemd service file generator](https://mysystemd.talos.sh/)
 12. [Diceware Password Generator](https://diceware.dmuth.org/)
 13. [Base64 Online](http://base64online.org/encode/)
+14. [regex101](https://regex101.com/)
 
 ## VPN Tools
 *Just need a **free VPN tool** to work or share internal documents to public people*
