@@ -19,6 +19,7 @@
 * [Docker Cheat sheet](https://vishnuch.tech/docker-cheatsheet)
 * [docker-cheat-sheet.pdf](DevOps/docker-cheat-sheet.pdf)
 * [systemd Cheat Sheet](DevOps/systemd Cheat Sheet.pdf)
+* [Bash Shortcut](https://kapeli.com/cheat_sheets/Bash_Shortcuts.docset/Contents/Resources/Documents/index)
 
 ## English
 *I have found out some App in App Store to study English like:*
