@@ -48,7 +48,7 @@
 15. [Swagger UI](https://nhthai2005.github.io/swagger/)
 
 ## Image and Video
-*There are some **free tools** that help you to caputre images or record video easily and quickly.*
+*Caputre images or record video easily and quickly.*
 1. **FastStone Capture:** <https://www.faststone.org/download.htm>
 2. **OBS Studio:** <https://obsproject.com/download>
 
