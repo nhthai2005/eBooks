@@ -48,7 +48,7 @@
 15. [Swagger UI](https://nhthai2005.github.io/swagger/)
 
 ## Image and Video
-*Caputre images or record video easily and quickly.*
+*Capture images or record video easily and quickly.*
 1. **FastStone Capture:** <https://www.faststone.org/FSCaptureDownload.htm>
 2. **OBS Studio:** <https://obsproject.com/download>
 
