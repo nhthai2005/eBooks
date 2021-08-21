@@ -49,8 +49,8 @@
 
 ## Image and Video
 *Capture images or record video easily and quickly.*
-1. **FastStone Capture:** <https://www.faststone.org/FSCaptureDownload.htm>
-2. **OBS Studio:** <https://obsproject.com/download>
+1. **FastStone Capture:** [Freeware](https://drive.google.com/file/d/0Bwlwjp_P6BUyMUctMHQxVGxieDg/view?usp=sharing&resourcekey=0-TK5Ha4EhZzz-1v_NjPJelQ)/[Shareware](https://www.faststone.org/FSCaptureDownload.htm)
+2. **OBS Studio:** [Free Download](https://obsproject.com/download)
 
 ## VPN Tools
 *Just need a **free VPN tool** to work or share internal documents to public people*
