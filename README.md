@@ -49,7 +49,7 @@
 
 ## Image and Video
 *Caputre images or record video easily and quickly.*
-1. **FastStone Capture:** <https://www.faststone.org/download.htm>
+1. **FastStone Capture:** <https://www.faststone.org/FSCaptureDownload.htm>
 2. **OBS Studio:** <https://obsproject.com/download>
 
 ## VPN Tools
