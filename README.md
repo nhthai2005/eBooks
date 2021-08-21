@@ -47,6 +47,11 @@
 14. [regex101](https://regex101.com/)
 15. [Swagger UI](https://nhthai2005.github.io/swagger/)
 
+## Image and Video
+*There are some **free tools** that help you to caputre images or record video easily and quickly.*
+1. **FastStone Capture:** <https://www.faststone.org/download.htm>
+2. **OBS Studio:** <https://obsproject.com/download>
+
 ## VPN Tools
 *Just need a **free VPN tool** to work or share internal documents to public people*
 1. [**VPNBook**](https://www.vpnbook.com/): used for *Desktop users*
