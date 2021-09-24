@@ -57,6 +57,6 @@
 *Just need a **free VPN tool** to work or share internal documents to public people*
 1. [**VPNBook**](https://www.vpnbook.com/): used for *Desktop users*
 2. [**ngrok**](https://ngrok.com/): used for *experienced users* or *developer*
-3. [**SoftEther VPN**](https://www.softether.org/): used for *Enterprise*
-4. [**OpenVPN**](https://hub.docker.com/r/nhthai2005/openvpn): used for *Enterprise*
-5. [**WireGuard**](https://www.wireguard.com/quickstart/): used for *experienced users* or *developer*
+3. [**WireGuard**](https://www.wireguard.com/quickstart/): used for *experienced users* or *developer*
+4. [**SoftEther VPN**](https://www.softether.org/): used for *Enterprise*
+5. [**OpenVPN**](https://hub.docker.com/r/nhthai2005/openvpn): used for *Enterprise*
