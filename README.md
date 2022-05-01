@@ -11,6 +11,8 @@
 * [Linux commands cheat sheet by PhoenixNAP.pdf](DevOps/Linux commands cheat sheet by PhoenixNAP.pdf)
 * [Linux Networking Cheat Sheet.pdf](DevOps/Linux Networking Cheat Sheet.pdf)
 * [LinuxCommandLineCheatSheet.pdf](DevOps/LinuxCommandLineCheatSheet.pdf)
+* [Linux notes for professionals](DevOps/Linux notes for professionals.pdf)
+* [Ubuntu Server CLI pro tips](DevOps/Ubuntu_Server_CLI_pro_tips_2020-04.pdf)
 * [Mastering Ansible 3rd Edition.pdf](DevOps/Mastering Ansible 3rd Edition.pdf)
 * [vi-cheat-sheet.pdf](DevOps/vi-cheat-sheet.pdf)
 * [vim-graphical-cheat-sheet.png](DevOps/vim-graphical-cheat-sheet.png)
